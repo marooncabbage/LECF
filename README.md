@@ -1,5 +1,5 @@
 
-the implementations of Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering
+Implementations of "Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering"
 
 ## Environment:
 
